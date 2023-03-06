@@ -1,0 +1,9 @@
+.two-columns__main-text {
+  width: 80%;
+  min-width: 784px;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+  line-height: 34px;
+  font-size: 24px;
+}
