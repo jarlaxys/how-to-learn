@@ -4,5 +4,7 @@
   flex-wrap: wrap;
   justify-content: flex-start;
   gap: 0 100px;
-
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
